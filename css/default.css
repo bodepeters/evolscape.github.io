@@ -1,4 +1,4 @@
-﻿/*!
+/*!
 * Created by Kroplet (https://www.kroplet.com) 
 * The easiest way to create Bootstrap 4 themes. 
 */
@@ -1834,27 +1834,27 @@ fieldset:disabled a.btn {
   pointer-events: none; }
 
 .btn-primary {
-  color: #11171a;
-  background-color: #1de9b6;
-  border-color: #1de9b6; }
+  color: #ffffff;
+  background-color: #e30707;
+  border-color: #e30707; }
   .btn-primary:hover {
-    color: #ffffff;
-    background-color: #14cc9e;
-    border-color: #13c095; }
+    color: #e30707;
+    background-color: #ffffff;
+    border-color: #ffffff; }
   .btn-primary:focus, .btn-primary.focus {
-    box-shadow: 0 0 0 0.2rem rgba(29, 233, 182, 0.5); }
+    box-shadow: 0 0 0 0.2rem rgba(277, 7, 7, 0.5); }
   .btn-primary.disabled, .btn-primary:disabled {
     color: #11171a;
-    background-color: #1de9b6;
-    border-color: #1de9b6; }
+    background-color: #e30707;
+    border-color: #e30707; }
   .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
   .show > .btn-primary.dropdown-toggle {
     color: #ffffff;
-    background-color: #13c095;
-    border-color: #12b58c; }
+    background-color: #e3002c;
+    border-color: #e3002c; }
     .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
     .show > .btn-primary.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(29, 233, 182, 0.5); }
+      box-shadow: 0 0 0 0.2rem rgba(277, 7, 7, 0.5); }
 
 .btn-secondary {
   color: #11171a;
@@ -7262,10 +7262,10 @@ button.bg-dark:focus {
   color: #ffffff !important; }
 
 .text-primary {
-  color: #1de9b6 !important; }
+  color: #e30707 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #13c095 !important; }
+  color: #ffffff !important; }
 
 .text-secondary {
   color: #ffffff !important; }
@@ -7405,7 +7405,7 @@ body {
   text-transform: uppercase;
   font-size: 15px; }
   .btn.btn-primary {
-    box-shadow: 0 8px 16px rgba(29, 233, 182, 0.3);
+    box-shadow: 0 8px 16px rgba(277, 7, 7, 0.3);
     transition: all .2s ease-out; }
     .btn.btn-primary:hover {
       box-shadow: 0 8px 20px rgba(29, 233, 182, 0.35); }
@@ -7612,7 +7612,7 @@ body {
       font-family: FontAwesome;
       font-size: 14px;
       content: "\f10c";
-      color: #1de9b6;
+      color: #e30707;
       margin: 0 .75rem 0 0; }
 
 /*Pricing tables*/
@@ -7642,13 +7642,13 @@ body {
     font-size: .75rem !important;
     line-height: 3.5rem !important; }
   .slick-dots li button::before, .slick-dots li.slick-active button:before {
-    color: #1de9b6 !important; }
+    color: #e30707 !important; }
 
 .slick-next:before, .slick-prev:before {
-  color: rgba(29, 233, 182, 0.2); }
+  color: rgba(277, 7, 7, 0.3); }
 
 .slick-next:hover:before, .slick-prev:hover:before {
-  color: #1de9b6; }
+  color: #e30707; }
 
 /*footer*/
 footer ul > li {
@@ -7707,9 +7707,9 @@ footer h5 {
   line-height: 40px;
   right: -100px;
   color: #ffffff;
-  background-color: rgba(29, 233, 182, 0.5); }
+  background-color: rgba(277, 7, 7, 0.5); }
   .scroll-top:hover {
-    background-color: #1de9b6;
+    background-color: #e30707;
     transition: all .4s ease-in-out; }
   .scroll-top.active {
     right: 20px; }
@@ -7738,7 +7738,7 @@ footer h5 {
     color: #ffea00;
     background-color: rgba(255, 234, 0, 0.1); }
   .icon-box.box-danger {
-    color: #ff1744;
+    color: #e30707;
     background-color: rgba(255, 23, 68, 0.1); }
   .icon-box.box-light {
     color: #ECEFF1;
