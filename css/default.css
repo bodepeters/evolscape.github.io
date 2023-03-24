@@ -7794,7 +7794,7 @@ footer h5 {
 .bg-cyan {
   background-color: #00e5ff; }
 
- 
+
 
 
 /*slider*/
@@ -7823,7 +7823,7 @@ footer h5 {
   content: "";
   height: 75pt;
   position: absolute;
-  width: 200px;
+  width: 50px;
   z-index: 2;
 }
 .slider:after {
@@ -7841,7 +7841,7 @@ footer h5 {
   content: "";
   height: 75pt;
   position: absolute;
-  width: 200px;
+  width: 50px;
   z-index: 2;
 }
 
