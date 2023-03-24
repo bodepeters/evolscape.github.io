@@ -7794,10 +7794,13 @@ footer h5 {
 .bg-cyan {
   background-color: #00e5ff; }
 
+ 
+
+
 /*slider*/
 .slider {
-  background: #ffffff;
-  height: 75pt;
+  background: #000000;
+  height: 100pt;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
@@ -7832,7 +7835,7 @@ footer h5 {
 .slider:before {
   background: linear-gradient(
       to right,
-      #efeef2 0%,
+      #e30707 0%,
       hsla(0, 0%, 100%, 0) 100%
   );
   content: "";
@@ -7875,7 +7878,7 @@ footer h5 {
       transform: translateX(0);
   }
   100% {
-      transform: translateX(calc(-250px * 4));
+      transform: translateX(calc(-250px * 7));
   }
 }
 @keyframes scroll-r {
@@ -7883,7 +7886,7 @@ footer h5 {
       transform: translateX(0);
   }
   0% {
-      transform: translateX(calc(-250px * 4));
+      transform: translateX(calc(-250px * 7));
   }
 }
 
