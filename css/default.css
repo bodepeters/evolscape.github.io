@@ -1,4 +1,4 @@
-/*!
+﻿/*!
 * Created by Kroplet (https://www.kroplet.com) 
 * The easiest way to create Bootstrap 4 themes. 
 */
@@ -142,7 +142,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #1de9b6;
+  color: #e30707;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
@@ -7679,7 +7679,7 @@ footer h5 {
   font-size: 18px;
   line-height: 45px; }
   .social a:hover {
-    background: #1de9b6;
+    background: #e30707;
     color: #000000;
     transition: all .4s ease-in-out; }
 
