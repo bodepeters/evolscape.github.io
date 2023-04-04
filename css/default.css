@@ -3023,10 +3023,13 @@ input[type="button"].btn-block {
     text-decoration: none; }
 
 .navbar-nav {
+  background: #000000e6;
   display: -ms-flexbox;
   display: flex;
-  -ms-flex-direction: row;
-      flex-direction: row;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding-left: 0;
   margin-bottom: 0;
   list-style: none; }
