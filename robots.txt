@@ -1,5 +1,12 @@
 User-agent: *
 
+Disallow: /css
+Disallow: /js
+Disallow: /scss
+Disallow: /404.html
+Disallow: /CNAME
+Disallow: /README.md
+
 Allow: /
 
 Sitemap: https://www.evolscape.com/sitemap.xml
